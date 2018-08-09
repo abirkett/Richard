@@ -1,7 +1,7 @@
 <body>
  
  <div id="media">
-    <img src="https://78.media.tumblr.com/09aafab339458d8385c177c6d96eed90/tumblr_pd7v65Hb3Y1xchmeyo1_500h.jpg" />
+    <img src="https://78.media.tumblr.com/6315d818398a2ac7486a6fb0ed7cd594/tumblr_pd7w7d2NvK1xchmeyo1_1280.png" />
   </div>
   
   <ol>
